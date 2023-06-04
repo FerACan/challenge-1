@@ -11,3 +11,4 @@ as seen here:
 
 # CSS
 For the css I removed a lot of the repeating code and made it look more orginized as shown below: 
+![Screenshot 2023-06-04 153046](https://github.com/FerACan/challenge-1/assets/134230590/3d4bb142-1731-4b15-a06f-a0c866cdb69c)
