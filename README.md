@@ -10,3 +10,4 @@ as seen here:
 ![Screenshot 2023-06-04 151740](https://github.com/FerACan/challenge-1/assets/134230590/f7eddced-e44c-49f5-bdb9-dde2b6f86126)
 
 # CSS
+For the css I removed a lot of the repeating code and made it look more orginized as shown below: 
