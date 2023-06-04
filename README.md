@@ -8,3 +8,5 @@ as seen here:
 The class names were imoroved to for a more cleaner look and ids with same as some classes were removed
 as seen here:
 ![Screenshot 2023-06-04 151740](https://github.com/FerACan/challenge-1/assets/134230590/f7eddced-e44c-49f5-bdb9-dde2b6f86126)
+
+# CSS
